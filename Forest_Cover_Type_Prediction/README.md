@@ -6,7 +6,7 @@ cover in an area of 30x30 meter cells from 54 input variables. The training set
 consists of 15120 data points and the test set is comprised of 565892
 observations.
 
-## Forest Cover Type Prediction Using A Neural Net 54-120-7.py
+## forest_cover_type_prediction_using_a_neural_net.py
 
 This python script can be run from the command line and expects to be in the
 folder that contains the data. It produces a file called prediction.csv with the
